@@ -1,12 +1,12 @@
 ## Interface: 30402
-## Version: 4.0.0
+## Version: 1.0
 ## Title: Heresy_Loot_Priority
 ## Notes: <Heresy> loot prio in tooltips
 ## 3.4.0A for WOTLK P1
 ## 3.4.1A for WOTLK P2 first release
 ## 3.4.1B for WOTLK P2 priorisation du pal prot
 ## 3.4.1C for WOTLK P2 rajout des zaubes
-## 4.0.0 ToGC prios + rework
+## 1.0 ToGC prios + rework
 ## Author: Sellus x Sh
 
 _HERESY_LOOT_PRIO.lua
